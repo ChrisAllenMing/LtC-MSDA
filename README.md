@@ -5,7 +5,9 @@
 </p>
 
 ## Introduction
-This project is the implementation of ``Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation'' in PyTorch.  
+This project is the implementation of ``Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation'' in PyTorch, which is accepted by ECCV 2020.
+
+The paper is coming soon. 
 
 ### Prerequisites
 
