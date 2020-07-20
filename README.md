@@ -60,6 +60,6 @@ If this work helps your research, please cite the following paper (it will be up
   title     = {Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation},
   journal   = {CoRR},
   volume    = {abs/2007.08801},
-  year      = {2020},
+  year      = {2020}
 }
 ```
