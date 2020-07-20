@@ -7,7 +7,7 @@
 ## Introduction
 This project is the implementation of ``Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation'' in PyTorch, which is accepted by ECCV 2020.
 
-The paper is coming soon. 
+The paper is available here: [arXiv](https://arxiv.org/pdf/2007.08801.pdf)
 
 ### Prerequisites
 
@@ -49,4 +49,17 @@ python train.py --use_target --save_model --target $target_domain$ \
 To evaluate the LtC-MSDA model, you can run:
 ```
 python test.py --target $target_domain$ --load_checkpoint $checkpoint_file$
+```
+
+## Citation
+
+If this work helps your research, please cite the following paper (it will be updated when the ECCV paper is publicized).
+```
+@article{wang2020learning,
+  author    = {Hang Wang, Minghao Xu, Bingbing Ni, Wenjun Zhang},
+  title     = {Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation},
+  journal   = {CoRR},
+  volume    = {abs/2007.08801},
+  year      = {2020},
+}
 ```
