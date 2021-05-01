@@ -63,7 +63,7 @@ If this work helps your research, please cite the following paper:
 }
 ```
 
-Also, this method has been extended into a journal work, and we will release the code of the novel ``MRF-MSDA'' in the journal version upon acceptance (most likely in a separate repository). It will be very kind of you if you can also cite our journal work:
+Also, this method has been extended into [a journal work](https://arxiv.org/pdf/2104.13057.pdf), and we will release the code of the novel ``MRF-MSDA'' in the journal version upon acceptance (most likely in a separate repository). It will be very kind of you if you can also cite our journal work:
 ```
 @article{ xu2021graphical,
   title    = {Graphical Modeling for Multi-Source Domain Adaptation},
