@@ -53,13 +53,22 @@ python test.py --target $target_domain$ --load_checkpoint $checkpoint_file$
 
 ## Citation
 
-If this work helps your research, please cite the following paper (it will be updated when the ECCV paper is publicized).
+If this work helps your research, please cite the following paper:
 ```
-@article{wang2020learning,
-  author    = {Hang Wang, Minghao Xu, Bingbing Ni, Wenjun Zhang},
-  title     = {Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation},
-  journal   = {CoRR},
-  volume    = {abs/2007.08801},
-  year      = {2020}
+@inproceedings{ wang2020learning,
+  title      = {Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation},
+  author     = {Wang, Hang and Xu, Minghao and Ni, Bingbing and Zhang, Wenjun},
+  booktitle  = {European Conference on Computer Vision},
+  year       = {2020}
+}
+```
+
+Also, this method has been extended into a journal work, and we will release the code of the novel ``MRF-MSDA'' in the journal version upon acceptance (most likely in a separate repository). It will be very kind of you if you can also cite our journal work:
+```
+@article{ xu2021graphical,
+  title    = {Graphical Modeling for Multi-Source Domain Adaptation},
+  author   = {Xu, Minghao and Wang, Hang and Ni, Bingbing},
+  journal  = {arXiv preprint arXiv:2104.13057},
+  year     = {2021}
 }
 ```
