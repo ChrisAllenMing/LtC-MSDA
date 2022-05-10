@@ -65,10 +65,11 @@ If this work helps your research, please cite the following paper:
 
 Also, this method has been extended into [a journal work](https://arxiv.org/pdf/2104.13057.pdf), and we will release the code of the novel ``MRF-MSDA'' in the journal version upon acceptance (most likely in a separate repository). It will be very kind of you if you can also cite our journal work:
 ```
-@article{ xu2021graphical,
-  title    = {Graphical Modeling for Multi-Source Domain Adaptation},
-  author   = {Xu, Minghao and Wang, Hang and Ni, Bingbing},
-  journal  = {arXiv preprint arXiv:2104.13057},
-  year     = {2021}
+@article{xu2022graphical,
+  title={Graphical modeling for multi-source domain adaptation},
+  author={Xu, Minghao and Wang, Hang and Ni, Bingbing},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
 }
 ```
